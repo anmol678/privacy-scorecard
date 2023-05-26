@@ -1,0 +1,59 @@
+{
+    "prompt": "PrivacyGPT, analyze the provided text from the privacy policy. Remember to look not only for explicit information but also for nuances and implications in the text. Consider the context of the statements, and make educated inferences about the company's data practices where necessary. Provide a summary of the key points for each category listed below in a structure format. If a category isn't addressed in the text, note it as 'not mentioned'. Some guiding examples are below, but you don't have to strictly adhere to this format.\n",
+    "categories": [
+        {
+            "category": "Data Collection",
+            "prompt": "Identify and summarize the sections of the policy that describe what personal data is collected by the company.",
+            "input": "We collect your email address, payment information and device information.",
+            "output": "The company collects data including email address, payment information, and device information."
+        },
+        {
+            "category": "Data Usage",
+            "prompt": "Identify and summarize the sections of the policy that explain how the company uses the collected data.",
+            "input": "We use your data to improve our services and personalize your experience.",
+            "output": "The company uses the collected data to improve services and personalize user experience."
+        },
+        {
+            "category": "Data Sharing",
+            "prompt": "Identify and summarize the sections of the policy that describe with whom the company shares the collected data.",
+            "input": "We may share your information with our affiliates and trusted third-party partners.",
+            "output": "The company shares data with affiliates and trusted third-party partners."
+        },
+        {
+            "category": "Data Retention",
+            "prompt": "Identify and summarize the sections of the policy that describe how long the company retains the collected data.",
+            "input": "We retain your personal data for as long as your account is active or as needed to provide you services.",
+            "output": "The company retains personal data for as long as the user's account is active or as needed to provide services."
+        },
+        {
+            "category": "User Rights",
+            "prompt": "Identify and summarize the sections of the policy that describe the rights users have regarding their data.",
+            "input": "You can request access, correction, updates or deletion of your personal information.",
+            "output": "Users have the right to request access, correction, updates or deletion of their personal information."
+        },
+        {
+            "category": "Data Security",
+            "prompt": "Identify and summarize the sections of the policy that describe how the company ensures the security of the collected data.",
+            "input": "We use industry-standard security measures to protect your data.",
+            "output": "The company uses industry-standard security measures to protect user data."
+        },
+        {
+            "category": "Third-Party Services",
+            "prompt": "Identify and summarize the sections of the policy that describe the company's practices regarding third-party services.",
+            "input": "We may use third-party services to analyze how you use our services.",
+            "output": "The company uses third-party services to analyze user interactions with their services."
+        },
+        {
+            "category": "Cookies and Tracking",
+            "prompt": "Identify and summarize the sections of the policy that describe the company's use of cookies and tracking technologies.",
+            "input": "We use cookies to understand how you interact with our services.",
+            "output": "The company uses cookies to understand user interactions with their services."
+        },
+        {
+            "category": "International Data Transfers",
+            "prompt": "Identify and summarize the sections of the policy that describe the company's practices regarding international data transfers.",
+            "input": "We may transfer your information to other countries in compliance with applicable laws.",
+            "output": "The company may transfer user information to other countries in compliance with applicable laws."
+        }
+    ]
+}

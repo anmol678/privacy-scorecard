@@ -1,0 +1,439 @@
+{
+   "search_metadata":{
+      "id":"646561a3797ac6be058f883e",
+      "status":"Success",
+      "json_endpoint":"https://serpapi.com/searches/84da1a0568af08c4/646561a3797ac6be058f883e.json",
+      "created_at":"2023-05-17 23:22:11 UTC",
+      "processed_at":"2023-05-17 23:22:11 UTC",
+      "google_url":"https://www.google.com/search?q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&oq=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&sourceid=chrome&ie=UTF-8",
+      "raw_html_file":"https://serpapi.com/searches/84da1a0568af08c4/646561a3797ac6be058f883e.html",
+      "total_time_taken":2.02
+   },
+   "search_parameters":{
+      "engine":"google",
+      "q":"https://openai.com/policies/privacy-policy",
+      "google_domain":"google.com",
+      "device":"desktop"
+   },
+   "search_information":{
+      "organic_results_state":"Results for exact spelling",
+      "query_displayed":"https://openai.com/policies/privacy-policy",
+      "total_results":5130000,
+      "time_taken_displayed":0.5,
+      "menu_items":[
+         {
+            "position":1,
+            "title":"News",
+            "link":"https://www.google.com/search?q=https://openai.com/policies/privacy-policy&tbm=nws&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQICRAB",
+            "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&tbm=nws"
+         },
+         {
+            "position":2,
+            "title":"Videos",
+            "link":"https://www.google.com/search?q=https://openai.com/policies/privacy-policy&tbm=vid&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQICBAB",
+            "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy"
+         },
+         {
+            "position":3,
+            "title":"Images",
+            "link":"https://www.google.com/search?q=https://openai.com/policies/privacy-policy&tbm=isch&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQIBxAB",
+            "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy"
+         },
+         {
+            "position":4,
+            "title":"Books",
+            "link":"https://www.google.com/search?q=https://openai.com/policies/privacy-policy&tbm=bks&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQIBhAB"
+         },
+         {
+            "position":5,
+            "title":"Shopping",
+            "link":"https://www.google.com/search?q=https://openai.com/policies/privacy-policy&tbm=shop&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQIOxAB",
+            "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy"
+         },
+         {
+            "position":6,
+            "title":"Maps",
+            "link":"https://maps.google.com/maps?output=search&q=https://openai.com/policies/privacy-policy&entry=mc&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQIPhAB"
+         },
+         {
+            "position":7,
+            "title":"Flights",
+            "link":"https://www.google.com/flights?output=search&q=https://openai.com/policies/privacy-policy&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQIPRAB"
+         },
+         {
+            "position":8,
+            "title":"Finance",
+            "link":"https://www.google.com/finance?output=search&q=https://openai.com/policies/privacy-policy&sa=X&ved=2ahUKEwjbuYqpv_3-AhV6g_0HHVTDDksQ0pQJegQIPBAB"
+         }
+      ]
+   },
+   "related_questions":[
+      {
+         "question":"What is the privacy policy of OpenAI API?",
+         "snippet":"OpenAI will not use data submitted by customers via our API to train or improve our models, unless you explicitly decide to share your data with us for this purpose. You can opt-in to share data.",
+         "title":"What terms of service / privacy policy apply to Playground?",
+         "date":"Apr 3, 2023",
+         "link":"https://community.openai.com/t/what-terms-of-service-privacy-policy-apply-to-playground/136036#:~:text=OpenAI%20will%20not%20use%20data,opt%2Din%20to%20share%20data.",
+         "displayed_link":"https://community.openai.com › what-terms-of-service-...",
+         "next_page_token":"eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcml2YWN5IHBvbGljeSBvZiBPcGVuQUkgQVBJPyIsImxrIjoiR2hsdmNHVnVZV2tnWVhCcElIQnlhWFpoWTNrZ2NHOXNhV041IiwiYnMiOiJjLVBTNDlJTXowZ3NVY2dzVmlqSlNGVW9LTW9zUzB5dVZDakl6OGtFVXZscEN2NEZxWG1PbmdxT0FaNzJFbC1rdVpTNTVGenlVNHRod3NuNU9UbXB5U1VLcGNXcFJRb3BpU1dKOWhKdHBWeTZYQnBnUXhPTFVsRk1UYzdQUzA0dHlpdEdtR3N2c2MyQ1M0TkwyUk51b250QWlLNnhRbDUtdVVJLVVFQ2hKRi1ob0RRSjZCaDdpZlc4QW93QSIsImlkIjoiZmNfMSJ9",
+         "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcml2YWN5IHBvbGljeSBvZiBPcGVuQUkgQVBJPyIsImxrIjoiR2hsdmNHVnVZV2tnWVhCcElIQnlhWFpoWTNrZ2NHOXNhV041IiwiYnMiOiJjLVBTNDlJTXowZ3NVY2dzVmlqSlNGVW9LTW9zUzB5dVZDakl6OGtFVXZscEN2NEZxWG1PbmdxT0FaNzJFbC1rdVpTNTVGenlVNHRod3NuNU9UbXB5U1VLcGNXcFJRb3BpU1dKOWhKdHBWeTZYQnBnUXhPTFVsRk1UYzdQUzA0dHlpdEdtR3N2c2MyQ1M0TkwyUk51b250QWlLNnhRbDUtdVVJLVVFQ2hKRi1ob0RRSjZCaDdpZlc4QW93QSIsImlkIjoiZmNfMSJ9"
+      },
+      {
+         "question":"Does OpenAI collect user data?",
+         "snippet":"We retain certain data from your interactions with us, but we take steps to reduce the amount of personal information in our training datasets before they are used to improve our models. This data helps us better understand user needs and preferences, allowing our model to become more efficient over time.",
+         "title":"How your data is used to improve model performance | OpenAI Help ...",
+         "link":"https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance#:~:text=We%20retain%20certain%20data%20from,become%20more%20efficient%20over%20time.",
+         "displayed_link":"https://help.openai.com › articles › 5722486-how-your-da...",
+         "next_page_token":"eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJEb2VzIE9wZW5BSSBjb2xsZWN0IHVzZXIgZGF0YT8iLCJsayI6IkdoMWtiMlZ6SUc5d1pXNWhhU0JqYjJ4c1pXTjBJSFZ6WlhJZ1pHRjBZUSIsImJzIjoiYy1QUzQ5SU16MGdzVWNnc1ZpakpTRlVvS01vc1MweXVWQ2pJejhrRVV2bHBDdjRGcVhtT25ncU9BWjcyRWwta3VaUzU1Rnp5VTR0aHdzbjVPVG1weVNVS3BjV3BSUW9waVNXSjloSnRwVnk2WEJwZ1F4T0xVbEZNVGM3UFMwNHR5aXRHbUdzdnNjMkNTNE5MMlJOdW9udEFpSzZ4UWw1LXVVSS1VRUNoSkYtaG9EUUo2Qmg3aWZXOEFvd0EiLCJpZCI6ImZjXzEifQ==",
+         "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJEb2VzIE9wZW5BSSBjb2xsZWN0IHVzZXIgZGF0YT8iLCJsayI6IkdoMWtiMlZ6SUc5d1pXNWhhU0JqYjJ4c1pXTjBJSFZ6WlhJZ1pHRjBZUSIsImJzIjoiYy1QUzQ5SU16MGdzVWNnc1ZpakpTRlVvS01vc1MweXVWQ2pJejhrRVV2bHBDdjRGcVhtT25ncU9BWjcyRWwta3VaUzU1Rnp5VTR0aHdzbjVPVG1weVNVS3BjV3BSUW9waVNXSjloSnRwVnk2WEJwZ1F4T0xVbEZNVGM3UFMwNHR5aXRHbUdzdnNjMkNTNE5MMlJOdW9udEFpSzZ4UWw1LXVVSS1VRUNoSkYtaG9EUUo2Qmg3aWZXOEFvd0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+      },
+      {
+         "question":"What are the privacy concerns of OpenAI?",
+         "snippet":"OpenAI will share your data with other businesses that it is involved with during transactions, reorganization, bankruptcy, or receivership. It may further share your data with law enforcement agencies in order to protect other users, the public, or itself against legal liability.",
+         "title":"Does ChatGPT Have Privacy Issues? - MakeUseOf",
+         "date":"Apr 13, 2023",
+         "link":"https://www.makeuseof.com/chatgpt-privacy-issues/#:~:text=OpenAI%20will%20share%20your%20data,or%20itself%20against%20legal%20liability.",
+         "displayed_link":"https://www.makeuseof.com › chatgpt-privacy-issues",
+         "next_page_token":"eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgcHJpdmFjeSBjb25jZXJucyBvZiBPcGVuQUk/IiwibGsiOiJHaGR2Y0dWdVlXa2djSEpwZG1GamVTQmpiMjVqWlhKdWN3IiwiYnMiOiJjLVBTNDlJTXowZ3NVY2dzVmlqSlNGVW9LTW9zUzB5dVZDakl6OGtFVXZscEN2NEZxWG1PbmdxT0FaNzJFbC1rdVpTNTVGenlVNHRod3NuNU9UbXB5U1VLcGNXcFJRb3BpU1dKOWhKdHBWeTZYQnBnUXhPTFVsRk1UYzdQUzA0dHlpdEdtR3N2c2MyQ1M0TkwyUk51b250QWlLNnhRbDUtdVVJLVVFQ2hKRi1ob0RRSjZCaDdpZlc4QW93QSIsImlkIjoiZmNfMSJ9",
+         "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgcHJpdmFjeSBjb25jZXJucyBvZiBPcGVuQUk%2FIiwibGsiOiJHaGR2Y0dWdVlXa2djSEpwZG1GamVTQmpiMjVqWlhKdWN3IiwiYnMiOiJjLVBTNDlJTXowZ3NVY2dzVmlqSlNGVW9LTW9zUzB5dVZDakl6OGtFVXZscEN2NEZxWG1PbmdxT0FaNzJFbC1rdVpTNTVGenlVNHRod3NuNU9UbXB5U1VLcGNXcFJRb3BpU1dKOWhKdHBWeTZYQnBnUXhPTFVsRk1UYzdQUzA0dHlpdEdtR3N2c2MyQ1M0TkwyUk51b250QWlLNnhRbDUtdVVJLVVFQ2hKRi1ob0RRSjZCaDdpZlc4QW93QSIsImlkIjoiZmNfMSJ9"
+      },
+      {
+         "question":"Is OpenAI GPT-3 now open to public?",
+         "snippet":"In short, yes. GPT-3 is free and available for the public to use. You can access the model through the OpenAI Playground. And on this platform, you will have the choice to experiment with 12 variants of the model, all built for different purposes.",
+         "title":"Is GPT-3 available to the public? - PC Guide",
+         "date":"Apr 20, 2023",
+         "link":"https://www.pcguide.com/apps/gpt-3-available-to-public/#:~:text=In%20short%2C%20yes.,all%20built%20for%20different%20purposes.",
+         "displayed_link":"https://www.pcguide.com › apps › gpt-3-available-to-public",
+         "next_page_token":"eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJJcyBPcGVuQUkgR1BULTMgbm93IG9wZW4gdG8gcHVibGljPyIsImxrIjoiR2g5dmNHVnVZV2tnWjNCMElETWdibTkzSUc5d1pXNGdkRzhnY0hWaWJHbGoiLCJicyI6ImMtUFM0OUlNejBnc1VjZ3NWaWpKU0ZVb0tNb3NTMHl1VkNqSXo4a0VVdmxwQ3Y0RnFYbU9uZ3FPQVo3MkVsLWt1WlM1NUZ6eVU0dGh3c241T1RtcHlTVUtwY1dwUlFvcGlTV0o5aEp0cFZ5NlhCcGdReE9MVWxGTVRjN1BTMDR0eWl0R21Hc3ZzYzJDUzROTDJSTnVvbnRBaUs2eFFsNS11VUktVUVDaEpGLWhvRFFKNkJoN2lmVzhBb3dBIiwiaWQiOiJmY18xIn0=",
+         "serpapi_link":"https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VFQxcGpUVjlmU2xWcWJuTTJhM1EwYmpGNU1HeGFSMlZ4TW1GcVozSkZTMU5JVjJ0M1psRm5PSEpSYTBSV1FYcFBjbXBRV0VOaFUyc3hjbUZTWmxWR1l6QTNabk53RWhkd1IwWnNXazUyV0VKZmNVYzVkVGhRTVVsaE56SkJVUm9pUVU4dE1ISnNORkZYZFUxcWVtTnJPRzl2T1ZKNE5IRkJRVTkzWmtWaVdtdHhVUSIsImZjdiI6IjMiLCJlaSI6InBHRmxaTnZYQl9xRzl1OFAxSWE3MkFRIiwicWMiOiJjLVBTeUNncEtTaFd5QzlJelV2TVZFak96MVVveU1fSlRNNU1MVllvS01vc1MweXVoQWhVQ2pEVUx1dTB0UWNBIiwicXVlc3Rpb24iOiJJcyBPcGVuQUkgR1BULTMgbm93IG9wZW4gdG8gcHVibGljPyIsImxrIjoiR2g5dmNHVnVZV2tnWjNCMElETWdibTkzSUc5d1pXNGdkRzhnY0hWaWJHbGoiLCJicyI6ImMtUFM0OUlNejBnc1VjZ3NWaWpKU0ZVb0tNb3NTMHl1VkNqSXo4a0VVdmxwQ3Y0RnFYbU9uZ3FPQVo3MkVsLWt1WlM1NUZ6eVU0dGh3c241T1RtcHlTVUtwY1dwUlFvcGlTV0o5aEp0cFZ5NlhCcGdReE9MVWxGTVRjN1BTMDR0eWl0R21Hc3ZzYzJDUzROTDJSTnVvbnRBaUs2eFFsNS11VUktVUVDaEpGLWhvRFFKNkJoN2lmVzhBb3dBIiwiaWQiOiJmY18xIn0%3D"
+      }
+   ],
+   "organic_results":[
+      {
+         "position":1,
+         "title":"Privacy policy - OpenAI",
+         "link":"https://openai.com/policies/privacy-policy",
+         "displayed_link":"https://openai.com › policies › privacy-policy",
+         "date":"Apr 27, 2023",
+         "snippet":"Our Service is not directed to children who are under the age of 13. OpenAI does not knowingly collect Personal Information from children under ...",
+         "snippet_highlighted_words":[
+            "OpenAI"
+         ],
+         "rich_snippet":{
+            "bottom":{
+               "extensions":[
+                  "Category of Personal Information: Disclosure of ...",
+                  "Geolocation Data: We disclose this information ...",
+                  "Identifiers, such as your contact details: We dis..."
+               ]
+            }
+         },
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:ey4mHKbVwooJ:https://openai.com/policies/privacy-policy&cd=10&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":2,
+         "title":"Terms & policies - OpenAI",
+         "link":"https://openai.com/policies",
+         "displayed_link":"https://openai.com › policies",
+         "snippet":"Terms when you use the products and services of OpenAI, L.L.C. or our affiliates. Privacy policy. Practices with respect to personal information we collect ...",
+         "snippet_highlighted_words":[
+            "OpenAI",
+            "Privacy policy",
+            "Practices"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "related_keywords":[
+               "practices"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:x38K8r0d28sJ:https://openai.com/policies&cd=19&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":3,
+         "title":"API data usage policies - OpenAI",
+         "link":"https://openai.com/policies/api-data-usage-policies",
+         "displayed_link":"https://openai.com › policies › api-data-usage-policies",
+         "date":"Mar 1, 2023",
+         "snippet":"OpenAI retains API data for 30 days for abuse and misuse monitoring purposes. A limited number of authorized OpenAI employees, as well as ...",
+         "snippet_highlighted_words":[
+            "OpenAI",
+            "OpenAI"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:z8XsPtzza48J:https://openai.com/policies/api-data-usage-policies&cd=20&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":4,
+         "title":"Terms of use - OpenAI",
+         "link":"https://openai.com/policies/terms-of-use",
+         "displayed_link":"https://openai.com › policies › terms-of-use",
+         "date":"Mar 14, 2023",
+         "snippet":"Our Privacy Policy explains how we collect and use personal information. ... comply with applicable law, and enforce our policies.",
+         "snippet_highlighted_words":[
+            "Privacy Policy",
+            "policies"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:f7i7Mb4eBAIJ:https://openai.com/policies/terms-of-use&cd=21&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":5,
+         "title":"Usage policies - OpenAI",
+         "link":"https://openai.com/policies/usage-policies",
+         "displayed_link":"https://openai.com › policies › usage-policies",
+         "date":"Mar 23, 2023",
+         "snippet":"We've recently updated our usage policies to be clearer and more specific. We want everyone to use our tools safely and responsibly.",
+         "snippet_highlighted_words":[
+            "policies"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:0eUrRP2hp-EJ:https://openai.com/policies/usage-policies&cd=22&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":6,
+         "title":"What terms of service / privacy policy apply to Playground?",
+         "link":"https://community.openai.com/t/what-terms-of-service-privacy-policy-apply-to-playground/136036",
+         "displayed_link":"https://community.openai.com › what-terms-of-service-...",
+         "date":"Apr 3, 2023",
+         "snippet":"I am not clear if Playground is a non-API or an API endpoint. From API data usage policies the following three points are made OpenAI will ...",
+         "snippet_highlighted_words":[
+            "policies",
+            "OpenAI"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:tFwMLyta68kJ:https://community.openai.com/t/what-terms-of-service-privacy-policy-apply-to-playground/136036&cd=23&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":7,
+         "title":"Security - OpenAI",
+         "link":"https://openai.com/security",
+         "displayed_link":"https://openai.com › security",
+         "snippet":"The OpenAI API undergoes annual third-party penetration testing, which identifies security weaknesses before they can be exploited by malicious actors. Customer ...",
+         "snippet_highlighted_words":[
+            "OpenAI"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:S180ydUvi40J:https://openai.com/security&cd=24&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":8,
+         "title":"Sharing & publication policy - OpenAI",
+         "link":"https://openai.com/policies/sharing-publication-policy",
+         "displayed_link":"https://openai.com › policies › sharing-publication-policy",
+         "date":"Nov 14, 2022",
+         "snippet":"Content co-authored with the OpenAI API · The published content is attributed to your name or company. · The role of AI in formulating the content ...",
+         "snippet_highlighted_words":[
+            "OpenAI"
+         ],
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:ZMrgRHBOYUcJ:https://openai.com/policies/sharing-publication-policy&cd=25&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":9,
+         "title":"Employee Data Privacy Notice - OpenAI",
+         "link":"https://cdn.openai.com/policies/employee-data-privacy-notice.pdf",
+         "displayed_link":"https://cdn.openai.com › policies › employee-data...",
+         "snippet":"As set out in our Data Privacy Policy, personal data means any ... policies such as those relating to travel and expense reimbursement, use of the telephone.",
+         "snippet_highlighted_words":[
+            "Privacy Policy",
+            "policies"
+         ],
+         "rich_snippet":{
+            "top":{
+               "detected_extensions":{
+                  "pages":14
+               },
+               "extensions":[
+                  "14 pages"
+               ]
+            }
+         },
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "related_keywords":[
+               "notice"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:p91T7OigHdUJ:https://cdn.openai.com/policies/employee-data-privacy-notice.pdf&cd=26&hl=en&ct=clnk&gl=us"
+      },
+      {
+         "position":10,
+         "title":"New ways to manage your data in ChatGPT - OpenAI",
+         "link":"https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt",
+         "displayed_link":"https://openai.com › blog › new-ways-to-manage-your-...",
+         "date":"Apr 25, 2023",
+         "snippet":"ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models.",
+         "about_this_result":{
+            "keywords":[
+               "https",
+               "openai",
+               "com",
+               "policies",
+               "privacy",
+               "policy"
+            ],
+            "languages":[
+               "English"
+            ],
+            "regions":[
+               "United States"
+            ]
+         },
+         "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:8UekIb4Er0YJ:https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt&cd=27&hl=en&ct=clnk&gl=us"
+      }
+   ],
+   "pagination":{
+      "current":1,
+      "next":"https://www.google.com/search?q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&oq=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=10&sourceid=chrome&ie=UTF-8",
+      "other_pages":{
+         "2":"https://www.google.com/search?q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&oq=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=10&sourceid=chrome&ie=UTF-8",
+         "3":"https://www.google.com/search?q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&oq=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=20&sourceid=chrome&ie=UTF-8",
+         "4":"https://www.google.com/search?q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&oq=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=30&sourceid=chrome&ie=UTF-8",
+         "5":"https://www.google.com/search?q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&oq=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=40&sourceid=chrome&ie=UTF-8"
+      }
+   },
+   "serpapi_pagination":{
+      "current":1,
+      "next_link":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=10",
+      "next":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=10",
+      "other_pages":{
+         "2":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=10",
+         "3":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=20",
+         "4":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=30",
+         "5":"https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=https%3A%2F%2Fopenai.com%2Fpolicies%2Fprivacy-policy&start=40"
+      }
+   }
+}

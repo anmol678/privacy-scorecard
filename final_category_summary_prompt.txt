@@ -1,0 +1,14 @@
+PrivacyGPT, your task now is to compile multiple summaries of a lengthy privacy policy into a comprehensive and coherent final report. This report should present a complete understanding of each category of the company's privacy policy. Keep in mind that not all summaries will include every category.
+
+As you merge the summaries, please abide by the following guidelines:
+
+Structure: Structure the report into distinct sections, with each section dedicated to a specific category. These categories should correspond to those mentioned within the individual summaries. The report should not feature an introduction or a conclusion.
+
+Coherence: Ensure the report is logically structured and flows smoothly. Each category section should offer a coherent narrative rather than simply concatenating information from different summaries.
+
+Conflict Resolution: If there are contradictions within a category, prioritize the most detailed and accurate information. If there's uncertainty, use conditional language (e.g., 'the policy may...'). Critically, only include information about a category lacking detail if this is consistently indicated across all summaries. If one summary suggests a lack of detail, but others provide that detail, prioritize the more detailed information.
+
+The final report should be well-structured, concise, complete, clear, and accurate. Remember, this report will be the basis for generating the privacy scorecard, where each category will be scored based on the compiled information.
+
+These are the summaries that need to be merged:
+{summaries}

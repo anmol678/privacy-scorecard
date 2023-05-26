@@ -1,0 +1,315 @@
+You are PrivacyGPT, a highly capable language model with vast knowledge of software data and privacy practices. Your overarching goal is to analyze privacy policies and create a well structured privacy scorecard that offers a clear, easy-to-understand representation of a company's data practices. You're responsible for the first stage of this process which involves: extracting key details from the policy, inferring nuanced information where direct information isn't available, and finally, compiling these details into a coherent, comprehensive report. Your output will be fed into another language model for the next phase, which is to generate the privacy scorecard. Hence, it's critical that your output is accurate, precise, and comprehensive.
+PrivacyGPT, your task now is to compile multiple summaries of a lengthy privacy policy into a comprehensive and coherent final report. This report should present a complete understanding of each category of the company's privacy policy. Keep in mind that not all summaries will include every category.
+
+As you merge the summaries, please abide by the following guidelines:
+
+Structure: Structure the report into distinct sections, with each section dedicated to a specific category. These categories should correspond to those mentioned within the individual summaries. The report should not feature an introduction or a conclusion.
+
+Coherence: Ensure the report is logically structured and flows smoothly. Each category section should offer a coherent narrative rather than simply concatenating information from different summaries.
+
+Conflict Resolution: If there are contradictions within a category, prioritize the most detailed and accurate information. If there's uncertainty, use conditional language (e.g., 'the policy may...'). Critically, only include information about a category lacking detail if this is consistently indicated across all summaries. If one summary suggests a lack of detail, but others provide that detail, prioritize the more detailed information.
+
+The final report should be well-structured, concise, complete, clear, and accurate. Remember, this report will be the basis for generating the privacy scorecard, where each category will be scored based on the compiled information.
+
+These are the summaries that need to be merged:
+Summary 1:
+The provided text is not available. Please provide the text to be analyzed.
+
+Summary 2:
+Category: Data Collection
+The company collects various categories of personal information, including identifiers like name, phone number, and address, demographic information like age and gender, commercial information like payment history, biometric information, internet and network activity information, geolocation data, audio, electronic, visual, and similar information, communications data, health information, professional, employment, and education information, and other information created or provided by the user.
+
+Category: Data Usage
+The company uses the collected data for various purposes, including protecting against security threats, auditing and measurement, maintaining services, research and development, use of service providers, advertising, and legal reasons.
+
+Category: Data Sharing
+The company shares data with other people with whom the user chooses to share information, third parties with user consent, service providers, trusted businesses or persons that process information on the company's behalf, domain administrators, and law enforcement or other third parties for legal reasons.
+
+Summary 3:
+Category: Data Collection
+- The company collects data such as IP address, unique identifiers stored in cookies, photos and videos uploaded to Google Photos, flight confirmation emails, and information provided when purchasing services or physical goods.
+
+Category: Data Usage
+- The collected data is used to deliver services, detect abuse, help users decide which device to use, analyze how people interact with advertising, ensure services are working as intended, improve services, and link information.
+
+Category: Data Sharing
+- The company shares data with appropriate authorities in response to legal process or enforceable governmental request, and with Lumen to prevent abuse and increase transparency and accountability over online content moderation practices. 
+- The company partners with over 2 million non-Google websites and apps to show ads.
+
+Category: Third-Party Services
+- The company uses third-party services to analyze how users interact with their services.
+
+Category: Cookies and Tracking
+- The company relies on cookies to function properly and uses them to analyze how people interact with their services.
+
+Category: International Data Transfers
+- The company may transfer user information to other countries in compliance with applicable laws.
+
+Summary 4:
+Category: Data Collection
+The company collects server logs that include web requests, IP address, browser type, browser language, date and time of request, and cookies that may uniquely identify the browser. The company also collects unique identifiers that can be used to identify a browser, app, or device. The company may also collect data from loyalty-card programs and other Google products.
+
+Category: Data Usage
+The collected data is used for various purposes, including improving services, personalizing user experience, providing personalized advertising, and fraud detection. The company may also use the collected data to show personalized content and search results based on user activity.
+
+Category: Data Sharing
+The company may share the collected data with affiliates, trusted third-party partners, and advertisers. The company may also provide aggregated reports to advertisers that don't reveal information about individual people.
+
+Category: Data Security
+The policy doesn't provide detailed information on how the company ensures the security of the collected data, but it mentions that industry-standard security measures are used to protect user data.
+
+Category: Third-Party Services
+The company uses third-party services to analyze how users interact with their services. The company may also use data from loyalty-card programs and other Google products.
+
+Category: Cookies and Tracking
+The company uses cookies to understand how users interact with their services. Unique identifiers stored in cookies help sites display content in the user's browser in their preferred language. The policy also mentions that users can configure their browser to refuse all cookies or to indicate when a cookie is being sent.
+
+Category: International Data Transfers
+The policy mentions that the company may transfer user information to other countries in compliance with applicable laws.
+
+Summary 5:
+Category: Data Collection
+The policy states that Google collects personal information such as name, email address, and billing information. It also collects non-personally identifiable information such as IP address and device information.
+
+Category: Data Usage
+Google uses the collected data to provide and improve services, personalize user experience, and display personalized ads. It also uses data to measure ad performance and to detect, prevent, and respond to fraud, abuse, and security issues.
+
+Category: Data Sharing
+Google shares user data with its affiliates and trusted third-party partners for various purposes such as advertising and analytics. It may also share data in response to legal requests or to protect against harm to the rights, property, or safety of Google, its users, or the public.
+
+Category: Data Retention
+Google retains user data for as long as necessary to provide services and for legal and business purposes. It may also retain data for longer periods if required by law or for legitimate business purposes.
+
+Category: User Rights
+Users have the right to access, correct, delete, and restrict the processing of their personal information. They can also object to the processing of their data and have the right to data portability.
+
+Category: Data Security
+Google uses industry-standard security measures to protect user data, including encryption and access controls. It also regularly monitors and audits its systems for vulnerabilities and threats.
+
+Category: Third-Party Services
+Google uses third-party services for various purposes such as analytics, advertising, and content delivery. It may also provide user data to third-party services for these purposes.
+
+Category: Cookies and Tracking
+Google uses cookies and other tracking technologies to understand how users interact with its services, personalize user experience, and display personalized ads. Users can control cookie settings through their browser settings.
+
+Category: International Data Transfers
+Google may transfer user data to other countries in compliance with applicable laws and with appropriate safeguards in place to protect user privacy.
+
+Summary 6:
+Category: Data Collection
+- Google collects information such as email address, name, phone number, payment information, device information, and location data.
+
+Category: Data Usage
+- Google uses the collected data to improve the safety and reliability of their services.
+- The company analyzes user content to provide customized search results, personalized ads, or other features tailored to how users use their services.
+- Google analyzes user content to detect abuse such as spam, malware, and illegal content.
+- The company may combine the information collected among their services and across a user's devices to improve their services and ads delivered by Google.
+- If other users already have a user's email address or other information that identifies them, Google may show them the user's publicly visible Google Account information, such as their name and photo.
+
+Category: Data Sharing
+- Google may share user information with their affiliates, trusted third-party partners, and other users if they have the user's email address or other information that identifies them.
+
+Category: Data Retention
+- Google retains user personal data for as long as the user's account is active or as needed to provide services.
+
+Category: User Rights
+- Users have the right to review and update their information by visiting the services they use.
+- Users can manage their privacy across Google services using the Privacy Checkup tool and specific privacy settings in Google products.
+- Google asks for user consent before using their information for a purpose that isn't covered in the Privacy Policy.
+
+Category: Third-Party Services
+- Google uses third-party services to analyze user interactions with their services, such as Google Analytics.
+
+Summary 7:
+Category: Data Collection
+- The company collects activity information including terms searched for, videos watched, views and interactions with content and ads, voice and audio information, purchase activity, people communicated with or shared content with, and activity on third-party sites and apps that use their services.
+- The company collects call and message log information if users make and receive calls or send and receive messages using their services.
+- The company collects location information when users use their services, which can be determined by GPS and other sensor data from the device, IP address, activity on Google services, and information about things near the device such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices.
+- The company may collect information about users from publicly accessible sources and trusted partners.
+
+Category: Data Usage
+- The company uses the collected data to provide, maintain, and improve their services.
+- The company uses the collected data to develop new services.
+- The company uses the collected data to provide personalized services, including content and ads.
+- The company uses the collected data for analytics and measurement to understand how their services are used.
+- The company uses the collected data to communicate with users directly.
+
+Category: Data Sharing
+- The company may share information with trusted partners, such as directory services, marketing partners, and security partners.
+- The company may share information with advertising partners to provide advertising and research services on their behalf.
+- The company may share users' phone numbers with businesses if users select the "tap to call" button on an ad.
+
+Category: User Rights
+- Users can visit their Google Account to find and manage activity information that's saved in their account.
+- The policy does not mention other user rights regarding their data.
+
+Category: Data Security
+- The company uses various technologies, including cookies, pixel tags, local storage, databases, and server logs, to collect and store information.
+- The policy mentions that the company uses the information they collect to ensure their services are working as intended and to make improvements to their services.
+
+Summary 8:
+Category: Data Collection
+- The company collects personal information such as name, password, phone number, payment information, and email address when users create a Google Account.
+- Even if users are not signed in, they may choose to provide the company with personal information such as an email address to communicate with Google or receive updates about their services.
+- The company collects information about the apps, browsers, and devices users use to access their services, including unique identifiers, browser type and settings, device type and settings, operating system, mobile network information, and application version number.
+- The company collects information about user activity in their services, including the content they create, upload, or receive from others, such as emails, photos, videos, docs, spreadsheets, and comments on YouTube videos.
+
+Category: Data Usage
+- The company uses the collected data to provide better services to users, such as showing more relevant search results or ads based on their activity.
+- The company uses the collected data to recommend YouTube videos that users might like.
+- The company uses the collected data to provide features like automatic product updates and dimming the screen if the user's battery runs low.
+
+Category: User Rights
+- Users can manage their privacy controls and adjust their privacy settings to control what the company collects and how their information is used.
+- Users can export and delete their information.
+- Users can contact the company if they have any questions about the Privacy Policy.
+
+Category: Data Security
+- The company works hard to protect user information and puts users in control of their information.
+- The policy does not provide explicit details on how the company ensures the security of the collected data.
+
+Category: Third-Party Services
+- The company provides various services that are integrated into third-party apps and sites, such as ads, analytics, and embedded Google Maps.
+- The policy does not provide explicit details on the company's practices regarding third-party services.
+
+Category: Cookies and Tracking
+- The company collects information using unique identifiers tied to the browser, application, or device users are using to maintain their preferences across browsing sessions, such as their preferred language or whether to show them more relevant search results or ads based on their activity.
+
+Summary 9:
+Category: Data Collection
+- Users can delete their information from specific Google services, search for and delete specific items from their account using My Activity, delete specific Google products, or delete their entire Google Account.
+- Inactive Account Manager allows users to give someone else access to parts of their Google Account in case they're unexpectedly unable to use their account.
+- Users can also request to remove content from specific Google services based on applicable law and Google's policies.
+- Google collects information through cookies and tracking technologies.
+- Device-level settings may determine what information Google collects, such as modifying location settings on an Android device.
+
+Category: Data Usage
+- Google uses collected data to improve its services.
+- Users have control over how they share their information with others through Google services.
+- When users interact with some Google services, their name and photo may appear next to their activity.
+- Google may display users' information in ads depending on their Shared endorsements setting.
+
+Category: Data Sharing
+- Google does not share personal information with companies, organizations, or individuals outside of Google except in certain cases.
+- Google shares personal information outside of Google with users' consent.
+- Domain administrators and resellers who manage users' accounts may have access to their Google Account.
+- Google provides personal information to its affiliates and other trusted businesses or persons to process it for Google.
+- Google will share personal information outside of Google if it has a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary.
+
+Category: User Rights
+- Users can request access, correction, updates, or deletion of their personal information.
+- Users have controls to review and manage third-party apps and sites they have given access to data in their Google Account.
+- Google will ask for users' explicit consent to share any sensitive personal information.
+
+Category: Data Security
+- Google builds security into its services to protect users' information.
+- Google products are built with strong security features that continuously protect users' information.
+- Google detects and automatically blocks security threats from ever reaching users.
+- Google notifies users and helps guide them through steps to stay better protected if it detects something risky.
+
+Category: Third-Party Services
+- Google may use third-party services to analyze how users use its services.
+- Google allows specific partners to collect information from users' browsers or devices for advertising and measurement purposes using their own cookies or similar technologies.
+
+Category: Cookies and Tracking
+- Google uses cookies to understand how users interact with its services.
+- Google's services rely on cookies to function properly, such as remembering users' language preferences.
+
+Summary 10:
+Category: Data Collection
+- Google collects different types of personal data, including information provided by users, data collected automatically, and data obtained from third-party sources.
+- The collected data includes, but is not limited to, name, email address, phone number, payment information, device information, and location information.
+
+Category: Data Usage
+- Google uses the collected data to provide, maintain, and improve its services, including developing new features and protecting against fraud and abuse.
+- The company also uses the data to personalize user experience, such as showing personalized ads and recommendations.
+
+Category: Data Sharing
+- Google shares user data with third-party service providers, including advertisers and partners, to provide and improve its services.
+- The company may also share data with law enforcement or other third parties in response to legal requests or to prevent harm to Google or its users.
+
+Category: Data Retention
+- Google retains different types of data for varying periods of time, depending on the type of data and how it is used.
+- Users can delete some data, such as personal information and content created or uploaded, at any time.
+- Other data is deleted or anonymized automatically after a set period of time, such as advertising data in server logs.
+- Google may retain some data for longer periods of time for legitimate business or legal purposes, such as security, fraud prevention, or financial record-keeping.
+
+Category: User Rights
+- Users have the right to access, correct, update, or delete their personal information.
+- Users can also request a copy of their information or export it from their Google Account.
+- State privacy laws, such as the CCPA and VCDPA, provide additional rights to request information, access, correct, or delete personal information, and opt-out of certain forms of profiling and targeted advertising.
+
+Category: Data Security
+- Google uses encryption and a range of security features, such as Safe Browsing and 2-Step Verification, to protect user data.
+- The company also reviews its information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to its systems.
+- Access to personal information is restricted to Google employees, contractors, and agents who need it to process it, and they are subject to strict contractual confidentiality obligations.
+
+Category: Third-Party Services
+- Google uses third-party services to analyze user interactions with its services and to provide and improve its services.
+- The company shares user data with third-party service providers, including advertisers and partners, to provide and improve its services.
+
+Category: Cookies and Tracking
+- Google uses cookies and similar tracking technologies to understand how users interact with its services and to personalize user experience.
+- Users can control what information is used to show personalized ads or turn off personalized ads by visiting My Ad Center.
+
+Category: International Data Transfers
+- Google maintains servers around the world, and user information may be processed on servers located outside of the country where the user lives.
+- Regardless of where the information is processed, Google applies the same protections described in its privacy policy.
+- The company also complies with certain legal frameworks relating to the transfer of data.
+
+Summary 11:
+Category: Data Collection
+- Google collects IP addresses and cookie data to protect against automated abuse.
+- The "last account activity" feature in Gmail collects information about recent activity in Gmail, such as the IP addresses that accessed the user's mail, the associated location, and the date and time of access.
+- Google uses topics to show personalized ads based on user activity, but doesn't use sensitive categories like race, religion, sexual orientation, or health.
+- Google may collect sensor data from the user's device to better understand their location and movement.
+- Google operates data centers located around the world to keep their products continuously available for users.
+- Google collects data from services like Google Voice, Google Meet, Gmail, Google Chat, Google Duo, and Google Fi.
+- Google uses Google Trends to sample web searches and estimate the popularity of searches over a certain period of time.
+- Google allows users to delete their blog from Blogger or a Google Site they own, as well as reviews they've left on apps, games, and other content in the Play Store.
+- Google allows YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.
+- Chrome browsing history is only saved to the user's account if they've enabled Chrome synchronization with their Google Account.
+- Gmail suggests addresses based on the people the user contacts most frequently.
+- Google processes information about requests to remove content from their services under Google's content removal policies or applicable law to assess the request, ensure transparency, improve accountability, and prevent abuse and fraud in these practices.
+- Google processes user information to report use statistics to rights holders about how their content was used in their services.
+- Google collects information about views and interactions with ads so they can provide aggregated reports to advertisers, like telling them whether they served their ad on a page and whether the ad was likely seen by a viewer.
+- Google may collect audio recordings when the user interacts with Google Search, Assistant, and Maps, but the user can choose whether or not to save them to their Google Account.
+- Google collects data from the user's activity on other sites and apps that partner with Google, like from syncing their account with Chrome or their visits to sites and apps that partner with Google.
+
+Category: Data Usage
+- Google uses collected data to protect against automated abuse.
+- The "last account activity" feature in Gmail helps users find out if and when someone accessed their email without their knowledge.
+- Google uses topics to show personalized ads based on user activity, but doesn't use sensitive categories like race, religion, sexual orientation, or health.
+- Google may collect sensor data from the user's device to better understand their location and movement.
+- Google operates data centers located around the world to keep their products continuously available for users.
+- Google uses data from services like Google Voice, Google Meet, Gmail, Google Chat, Google Duo, and Google Fi to make and receive calls or send and receive messages.
+- Google uses Google Trends to sample web searches and estimate the popularity of searches over a certain period of time.
+- Google allows users to delete their blog from Blogger or a Google Site they own, as well as reviews they've left on apps, games, and other content in the Play Store.
+- Google allows YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.
+- Gmail suggests addresses based on the people the user contacts most frequently.
+- Google processes information about requests to remove content from their services under Google's content removal policies or applicable law to assess the request, ensure transparency, improve accountability, and prevent abuse and fraud in these practices.
+- Google processes user information to report use statistics to rights holders about how their content was used in their services.
+- Google collects information about views and interactions with ads so they can provide aggregated reports to advertisers, like telling them whether they served their ad on a page and whether the ad was likely seen by a viewer.
+- Google may collect audio recordings when the user interacts with Google Search, Assistant, and Maps, but the user can choose whether or not to save them to their Google Account.
+- Google collects data from the user's activity on other sites and apps that partner with Google, like from syncing their account with Chrome or their visits to sites and apps that partner with Google.
+
+Category: Data Sharing
+- Google may share user information with specific partners, such as YouTube creators and advertisers, who work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.
+- Google processes user information to report use statistics to rights holders about how their content was used in their services.
+
+Category: User Rights
+- Users can choose whether or not to save audio recordings to their Google Account when they interact with Google Search, Assistant, and Maps.
+- Users can request removal of content from Google's services under Google's content removal policies or applicable law to assess the request, ensure transparency, improve accountability, and prevent abuse and fraud in these practices.
+
+Category: Data Security
+- Google collects and analyzes IP addresses and cookie data to protect against automated abuse.
+
+Category: Third-Party Services
+- Google uses third-party services to analyze user interactions with their services.
+- Google allows YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.
+- Google collects data from the user's activity on other sites and apps that partner with Google, like from syncing their account with Chrome or their visits to sites and apps that partner with Google.
+
+Category: Cookies and Tracking
+- Google uses cookies to understand how users interact with their services.
+- Google allows YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.
+- Google collects data from the user's activity on other sites and apps that partner with Google, like from syncing their account with Chrome or their visits to sites and apps that partner with Google.

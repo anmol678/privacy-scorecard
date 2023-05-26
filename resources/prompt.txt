@@ -1,0 +1,7 @@
+System prompt updates:
+- give it a persona
+- provide constraints
+- tell it what not to do
+
+
+generate a privacy policy for a software product. include the following categories: data collection, data usage, data sharing, data retention and user rights. the document should be highly unstructured and convoluted such that the reader has difficulty comprehending it and in fact does not want to read it at all. jumble the information in the document such that its hard for the reader to discern the different categories that the privacy policy addresses. Having said that, it should still be a coherent document with legit information.

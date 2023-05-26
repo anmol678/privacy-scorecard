@@ -1,0 +1,16 @@
+You will be provided with some data on a company from a search API. Your objective is to extract some specific information from the data. It is critical that the information you provide is accurate. 
+
+Here are the candidate names that were found: {candidate_names}
+And here are the corresponding descriptions: {candidate_descriptions}
+
+Here is a Knowledge Graph from the search API: {knowledge_graph}
+
+Provide a coherent response in third person that includes the following information:
+- The name of the company
+- The domain/industry of the company
+- The main product/service offerings of the company
+
+Your output will be used as context for evaluating the privacy practices of the company. Include any other information about its business that could be relevant. Your response should be no more than 400 characters.
+
+Example output:
+OpenAI is a private research laboratory that aims to develop and direct artificial intelligence (AI) in ways that benefit humanity as a whole. OpenAI conducts AI research with the declared intention of promoting and developing a friendly AI. The company has developed a range of AI technologies, including natural language processing, computer vision, robotics, and reinforcement learning.
